@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 七處三觀經
+#+DATE: 2015-08-30 19:33:02.058742
+#+PROPERTY: JUAN 0
